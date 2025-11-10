@@ -24,9 +24,11 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
+
 
 ## Graph
+![WhatsApp Image 2025-11-09 at 21 26 23_cdbbf0bb](https://github.com/user-attachments/assets/1f5521e0-dbe5-491b-8276-4c6b0c7b6929)
+
 
 
 ## **Result**
