@@ -27,7 +27,8 @@
 
 
 ## Graph
-![Uploading WhatsApp Image 2025-11-09 at 21.26.23_71d6f3c5.jpg…]()
+![ec exp 1](https://github.com/user-attachments/assets/abf47877-f755-43c1-a85c-c4262a9bc5b4)
+
 
 
 
