@@ -24,9 +24,11 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
+
 
 ## Graph
+![Uploading WhatsApp Image 2025-11-09 at 21.26.23_71d6f3c5.jpg…]()
+
 
 
 ## **Result**
